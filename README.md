@@ -15,6 +15,6 @@ This code has been tested with the following versions:
 ## Installation
 Clone this repository and install the required Python packages:
 
-git clone https://github.com/ShivaniChiranjeevi/Dinov2.git
-cd dinov2
-python3 train.py
+git clone https://github.com/ShivaniChiranjeevi/Dinov2.git  
+cd dinov2  
+python3 train.py  
