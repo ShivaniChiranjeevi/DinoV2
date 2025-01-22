@@ -1,5 +1,5 @@
 # DINOv2: Learning Robust Visual Features without Supervision
-Adapted from: https://github.com/lightly-ai/lightly
+Adapted from: https://github.com/lightly-ai/lightly.
 This code demonstrates a simple implementation of DINOv2 on the CIFAR dataset.
 
 ## Prerequisites
